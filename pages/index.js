@@ -19,7 +19,7 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          Get started by installing the Volcanic Glass plugin
+          The exclusive, plugin-based email client.
         </p>
       </main>
 
